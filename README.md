@@ -6,7 +6,7 @@
   
   I like to get to know what I don't know. 
   
-  If you need to contact me, please contact me by e-mail me. Have a nice day.
+  If you need to contact me, please contact me by e-mail me. Have a nice day. 😄
   
 ---
   

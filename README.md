@@ -26,6 +26,9 @@
 ### What i made
 - [https://luceinaltis.github.io/kimflix/](https://luceinaltis.github.io/kimflix/)
 
+### Experience
+- SW maestro 11th
+
 ---
 
 <div align=center>

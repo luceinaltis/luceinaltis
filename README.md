@@ -8,28 +8,6 @@
   
   If you need to contact me, please contact me by e-mail me. Have a nice day. 😄
   
----
-  
-### Interest
-- Machine Leaning
-- Backend
-
-### Stack
-- c++
-- python
-- javascript
-- react
-- node.js
-
-### What i made
-- [https://luceinaltis.github.io/kimflix/](https://luceinaltis.github.io/kimflix/)
-- [https://luceinaltis.github.io/kokoatalk/](https://luceinaltis.github.io/kokoatalk)
-- [https://luceinaltis.github.io/painting/](https://luceinaltis.github.io/painting)
-
-### Experience
-- SW maestro 11th
-
----
 
 <div align="center">
   
